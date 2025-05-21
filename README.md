@@ -1,4 +1,4 @@
-Android testing samples
+Android.X.testing samples/ Android.developer.com 
 ===================================
 
 A collection of samples demonstrating different frameworks and techniques for automated testing.
